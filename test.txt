@@ -1,1 +1,3 @@
 This is my first commit. This is only a test!
+
+Adding text for commit #2
