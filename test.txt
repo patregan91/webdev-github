@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my another commit. This is only a test!
+=======
+This is again a commit. This is only a test! Yay
+>>>>>>> feature
 
 Adding text for commit #2
